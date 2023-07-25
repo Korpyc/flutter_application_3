@@ -1,0 +1,3 @@
+files:
+  - source: '*_en.arb'
+    translation: /%original_path%/%locale%.arb
