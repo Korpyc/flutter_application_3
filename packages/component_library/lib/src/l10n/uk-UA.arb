@@ -1,13 +1,13 @@
 {
-  "downvoteIconButtonTooltip": "Downvote",
+  "downvoteIconButtonTooltip": "Голос Проти",
   "upvoteIconButtonTooltip": "Upvote",
-  "searchBarHintText": "journey",
-  "searchBarLabelText": "Search",
-  "shareIconButtonTooltip": "Share",
-  "favoriteIconButtonTooltip": "Favorite",
-  "exceptionIndicatorGenericTitle": "Something went wrong",
-  "exceptionIndicatorTryAgainButton": "Try Again",
-  "exceptionIndicatorGenericMessage": "There has been an error.\nPlease, check your internet connection and try again later.",
-  "genericErrorSnackbarMessage": "There has been an error. Please, check your internet connection.",
-  "authenticationRequiredErrorSnackbarMessage": "You need to sign in before performing this action."
+  "searchBarHintText": "поїздка",
+  "searchBarLabelText": "Пошук",
+  "shareIconButtonTooltip": "Поділитись",
+  "favoriteIconButtonTooltip": "Фаворит",
+  "exceptionIndicatorGenericTitle": "Сталася помилка",
+  "exceptionIndicatorTryAgainButton": "Спробуйте ще раз",
+  "exceptionIndicatorGenericMessage": "Сталася помилка.\nБудь ласка, перевірте підключення до Інтернету і повторіть спробу пізніше.",
+  "genericErrorSnackbarMessage": "Сталася помилка. Будь ласка, перевірте підключення до Інтернету.",
+  "authenticationRequiredErrorSnackbarMessage": "Ви повинні увійти в систему перед виконанням цієї дії."
 }
